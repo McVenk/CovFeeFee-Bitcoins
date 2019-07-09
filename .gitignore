@@ -39,3 +39,7 @@ Thumbs.db
 # Secret Files #
 ################
 *Secret*
+
+# Jupiter Notebook checkpoints #
+##################################
+.ipynb_checkpoints
